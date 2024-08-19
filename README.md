@@ -1,5 +1,7 @@
 # starbends.co.uk
 
+first off i am aware the website throws a security error. it's completely safe, i just haven't updated the ssl yet.
+
 I wrote this website as part of a university project. 
 I am a music student, not a web developer.
 Therefore the code is not neat, it is not finished, and I had no experience in p5.js prior to this. 
